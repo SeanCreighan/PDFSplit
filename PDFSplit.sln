@@ -1,0 +1,10 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFSplit", "PDFSplit\PDFSplit.csproj", "{74A04085-D074-4C37-AD3D-1F9718CCBB0D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDFSplit Setup Wizard", "PDFSplit Setup Wizard\PDFSplit Setup Wizard.vdproj", "{F34C75B1-9413-4F76-BF52-D399B25FD1CD}"
+EndProject
+Global
